@@ -1,4 +1,3 @@
-# portfolio-frontend
 <h1 align="center">Hi 👋, I'm Karam Al Ashkar</h1>
 <h3 align="center">A junior developer from Lebanon</h3>
 
